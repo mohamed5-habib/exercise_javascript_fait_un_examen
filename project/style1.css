@@ -1,0 +1,29 @@
+p{
+    font-family: monospace;
+    font-size: larger;
+    color: rgb(226, 25, 25);
+}
+body{
+    padding:0px 20% 10px;
+    background-color: rgb(102, 145, 160);   
+}
+.button{
+    color: black;
+    background-color: brown;
+    border-radius: 10px;
+    font-size: 20px;
+}
+.form{
+    background-color: rgb(202, 202, 221);
+    border-radius: 15px;
+    padding: 8px;
+}
+img{
+    padding: 10px;
+    border-radius: 15px;
+    width: auto;
+    height: auto;
+}
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
